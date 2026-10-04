@@ -1,0 +1,1 @@
+# awszqsedxzaw-s-schematics
