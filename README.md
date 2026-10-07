@@ -1,6 +1,4 @@
-# awszqsedxzaw's schematic repositories
-# awszqsedxzaw 的投影仓库
+# awszqsedxzaw's Minecraft Tree Hole
+# awszqsedxzaw 的我的世界树洞
 
-我做的一些机器的投影都会放在上面.
-
-有不错的机器也有史自己分辨
+我做的一些机器投影, 一些文章, 一些想法都会放在这里
